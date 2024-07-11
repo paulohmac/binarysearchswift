@@ -1,2 +1,3 @@
 # binarysearchswift
-Binary search implementation in Swift language
+Implementation of the Binary Search algorithm in Swift.
+
